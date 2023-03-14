@@ -1,6 +1,6 @@
 # Dos Tres Cinco
 
-##Description
+## Description
 This is an exercise done at ORT University.<br>
 It consisted of creating the interface in CSS with Bootstrap for the website of an Uruguayan Hip-Hop band.<br>
 The images and data were provided in the class material.
@@ -10,6 +10,6 @@ Applied technologies:
 - CSS - Bootstrap
 - jQuery
 
-##Author
+## Author
 Created by _Maxi-Franco_ &copy; 2021<br>
 * [LinkedIn](https://www.linkedin.com/in/maxi-franco/)
