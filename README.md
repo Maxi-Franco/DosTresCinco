@@ -1,7 +1,7 @@
 # Dos Tres Cinco
 
-This is an excersise made at ORT University.<br>
-The images and data were provided in the class material
+This is an exercise done at ORT University.<br>
+The images and data were provided in the class material.
 
 Applied technologies:
 - HTML 5
