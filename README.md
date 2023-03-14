@@ -9,3 +9,4 @@ Applied technologies:
 - jQuery
 
 By  _Maxi-Franco_
+&copy; 2021
